@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 - Learn about `bsp` and implement a full on-board BSP for `RTOS` on a RISC-V board.     ☐
 - Learn about `bsp` and implement a full on-board BSP for `Linux` on a RISC-V board.   ☐
-- Write a project related to `linux kernel modules`.   ☐
+- Write a project related to `linux kernel modules`.   ☑️
+  - mcs kernel module on milkv-duo
 - Learn about `linux processes` and port a project to `riscv` related to processes.   ☑️ 
   - proot on riscv
 
